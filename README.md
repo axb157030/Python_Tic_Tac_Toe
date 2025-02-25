@@ -1,3 +1,3 @@
 # To run it with Docker
-### docker build .
-### docker run -it <IMAGE_NAME>
+### 1. docker build .
+### 2. docker run -it <IMAGE_NAME>
